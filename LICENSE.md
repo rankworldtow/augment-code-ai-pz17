@@ -1,4 +1,4 @@
-# 
+# Turbo Augment Code scripts. Con computación en el borde y integración de API — optimizado para el máximo rendimiento y eficiencia.
 
 
 
